@@ -22,4 +22,4 @@
 
 Правила проведения регрессионого тестирования - https://docs.google.com/document/d/1iR4neZXwDQC5lG48upLgQ7qdZQDFDII3fr-PcYDgi4s/edit?usp=sharing
 
-Модуль "Регистрация" разбит на классы эквивалентности(Я здесь оставлю то, что сделал, ваши классы эквивалентности могут отличаться) - https://docs.google.com/spreadsheets/d/1Up1bh-upHpBxOZLQSm7qYFmWc5JVEqVTqwF3ai9CI0M/edit?usp=sharing
+Модуль "Регистрация" разбит на классы эквивалентности(Я здесь оставлю то, что сделал, ваши классы эквивалентности могут отличаться) - https://docs.google.com/spreadsheets/d/17Htf75YfisdkMIunbs0CayPg0Fa-plkuxzGpeCbmEQY/edit?usp=sharing
